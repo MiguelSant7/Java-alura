@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="45e77a80-3d5b-49b6-b910-7c976b3df64c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/modulo2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo2/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulo2/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/modulo2" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "MiguelSant7"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/MiguelSant7/java-alura.git",
+    "accountId": "c87c4792-527b-4311-9b5a-cd9233660452"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2t8Ayi0b9Nag27e2eD1nAwKm9WD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Adivinhacao.executor": "Run",
+    "Application.Desafio.executor": "Run",
+    "Application.DesafioFinal.executor": "Run",
+    "Application.Infinito.executor": "Run",
+    "Application.Loop.executor": "Run",
+    "Application.While.executor": "Run",
+    "Application.exercicios.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/PDITA303.PDITA3112W/OneDrive/Documentos/JavaAlura",
+    "onboarding.tips.debug.path": "C:/Users/PDITA303.PDITA3112W/OneDrive/Documentos/JavaAlura/primeiraAplicacao/modulo4/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.general"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\PDITA303.PDITA3112W\OneDrive\Documentos\JavaAlura\primeiraAplicacao\modulo2" />
+      <recent name="C:\Users\PDITA303.PDITA3112W\OneDrive\Documentos\JavaAlura\primeiraAplicacao\modulo3" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="primeiraAplicacao" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="primeiraAplicacao" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45e77a80-3d5b-49b6-b910-7c976b3df64c" name="Changes" comment="" />
+      <created>1739723583494</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739723583494</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
